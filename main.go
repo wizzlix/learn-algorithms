@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"./algorithms"
+)
 
 func main() {
-	fmt.Println("Hello from wizzlix algorithms collection!")
+	fmt.Println("Great Devisor :", algorithms.Devisor(545, 345))
 }
