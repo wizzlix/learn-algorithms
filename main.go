@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"algorithms\factorial.go"
 )
 
 func main() {
