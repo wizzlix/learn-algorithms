@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println(factorial(5))
+	fmt.Println(algorithms.factorial(5))
 }
