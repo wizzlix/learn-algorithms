@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
+
+	"./algorithms"
 )
 
 func main() {
-	fmt.Println(algorithms.factorial(5))
+	fmt.Println(algorithms.Factorial(5))
 }
