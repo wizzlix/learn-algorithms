@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"algorithms\factorial.go"
+)
 
 func main() {
-	fmt.Println("Hello from wizzlix algorithms collection!")
+	fmt.Println(factorial(5))
 }
