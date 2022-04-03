@@ -1,4 +1,4 @@
-﻿# golang-wizzlix-learn-algorithms
+﻿# Golang wizzlix learn algorithms
 
 ## Sort's
 
